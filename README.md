@@ -48,7 +48,7 @@
 </p>
 
 <h4 align="center">
-  Hey, I'm Gabriel! 👋
+  Hey, I'm Gabriel Bazante! 👋
 </h4>
 <p align="center">
   📌 Living in <b>Recife</b>, <b>Pernambuco</b>, <b>Brazil</b> &nbsp; 💼 FullStack Software Engineer at <b>MV Sistemas</b>
