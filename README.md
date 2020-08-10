@@ -15,7 +15,7 @@
     alt="Gmail"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Gmail-28A745?style=flat&logo=google-gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-28A745?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/gabriel-bazante-20a85911a/" 
