@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://github.com/gabrielbazante/gabrielbazante/blob/master/8.png?raw=true" width="500"
+  alt="" />
+</p>
+
+<p align="center">
   JavaScript | Angular | Flutter | Ionic | Java | React Native | HTML | CSS | Bootstrap | Git
 </p>
 
