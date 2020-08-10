@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabrielbazante/gabrielbazante/blob/master/8(sem%20fundo).png?raw=true" width="500"
+  <img src="https://github.com/gabrielbazante/gabrielbazante/blob/master/8(sem%20fundo).png?raw=true" width="700"
   alt="" />
 </p>
 
