@@ -56,7 +56,7 @@
   Hey, I'm Gabriel Bazante! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Recife</b>, <b>Pernambuco</b>, <b>Brazil</b> &nbsp; 💼 FullStack Software Engineer at <b>MV Sistemas</b>
+  📌 Living in <b>Recife</b>, <b>Pernambuco</b>, <b>Brazil</b> &nbsp; 💼 Mobile Developer at <b>Accenture</b>
 </p>
 <p align="center">
   📚 Graduate in <b>B.S. in Computer Science</b> &nbsp;
