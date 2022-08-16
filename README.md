@@ -52,7 +52,7 @@
   Hey, I'm Gabriel Bazante! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Recife</b>, <b>Pernambuco</b>, <b>Brazil</b> &nbsp; 💼 Senior Systems Analyst at <b>Arbo Imóveis</b>
+  📌 Living in <b>Recife</b>, <b>Pernambuco</b>, <b>Brazil</b> &nbsp; 💼 Senior Full Stack Developer at <b>Arbo Imóveis</b>
 </p>
 <p align="center">
   📚 Graduate in <b>B.S. in Computer Science</b> &nbsp;
