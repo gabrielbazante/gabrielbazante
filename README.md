@@ -57,3 +57,9 @@
 <p align="center">
   📚 Graduate in <b>B.S. in Computer Science</b> &nbsp;
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbazante&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabrielbazante" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbazante&show_icons=true&theme=synthwave&hide_border=true&locale=en" alt="gabrielbazante" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbazante&theme=dark" alt="gabrielbazante" /></p>
