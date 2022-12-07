@@ -1,10 +1,12 @@
 <img src="https://github.com/gabrielbazante/gabrielbazante/blob/master/Gabriel_Bazante2.png" width="100%">
 
+## Hey, I'm Gabriel Bazante 👋
+
 
 <p align="center">
   <h3 align="left">Languages and Tools:</h3>
   JavaScript | Angular | Flutter | Ionic | Java | React Native | HTML | CSS | Bootstrap | Git
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
 <h4 align="center">
