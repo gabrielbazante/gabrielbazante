@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/gabrielbazante/gabrielbazante/main/gabrielbazante.png" width="100%">
+
 
 <p align="center">
   <h3 align="left">Languages and Tools:</h3>
