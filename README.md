@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gabrielbazante/gabrielbazante/main/gabrielbazante.png" width="100%">
+<img src="https://raw.githubusercontent.com/gabrielbazante/gabrielbazante/main/Gabriel Bazante.png" width="100%">
 
 
 <p align="center">
