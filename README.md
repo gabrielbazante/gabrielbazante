@@ -2,6 +2,15 @@
 
 ## Hey, I'm Gabriel Bazante 👋
 
+- 🔭 I’m currently studying MBA - Mobile Developer
+- 🌱 I’m currently learning Android, React and Flutter
+- 👯 I made some projects using HTML, CSS, JavaScrpit, React, Android and Flutter
+- 🤔 I’m interested in studyng Swift
+- 💜 I’m passionate about Design and Front-end
+- 💻 I seek to learn more and more about front-end and back-end
+- 💼 Senior Full Stack Developer at <b>Arbo Imóveis</b>
+- 📚 Graduate in <b>B.S. in Computer Science</b>
+- 🇧🇷 Born and live in Recife, Brazil <br> 
 
 <p align="center">
   <h3 align="left">Languages and Tools:</h3>
@@ -9,17 +18,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
-<h4 align="center">
-  Hey, I'm Gabriel Bazante! 👋
-</h4>
-<p align="center">
-  📌 Living in <b>Recife</b>, <b>Pernambuco</b>, <b>Brazil</b> &nbsp; 💼 Senior Full Stack Developer at <b>Arbo Imóveis</b>
-</p>
-<p align="center">
-  📚 Graduate in <b>B.S. in Computer Science</b> &nbsp;
-</p>
-
-
+### Find me elsewhere 🌎
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbazante/)
