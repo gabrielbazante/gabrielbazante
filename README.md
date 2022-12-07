@@ -27,8 +27,8 @@
 
 <div align="center">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbazante&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="gabrielbazante" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbazante&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="gabrielbazante" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbazante&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="gabrielbazante" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbazante&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="gabrielbazante" />
   
 </div>
 
