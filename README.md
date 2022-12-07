@@ -1,51 +1,8 @@
 
 <p align="center">
+  <h3 align="left">Languages and Tools:</h3>
   JavaScript | Angular | Flutter | Ionic | Java | React Native | HTML | CSS | Bootstrap | Git
-</p>
-
-<p align="center">
-  <a
-    href="https://web.whatsapp.com/send?phone=+5581997844512" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
-  </a>
-  <a
-    href="mailto:gabrielbazante7@gmail.com" 
-    alt="Gmail"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Gmail-28A745?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a
-    href="https://www.linkedin.com/in/gabriel-bazante-20a85911a/" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a
-    href="https://github.com/gabrielbazante"
-    alt="GitHub"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
-  </a>
-  <a
-    href="https://www.facebook.com/gabrielbazante" 
-    alt="Facebook"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Facebook-28A745?style=flat&logo=Facebook&logoColor=white" />
-  </a>
-  <a
-    href="https://www.instagram.com/gabrielbazante" 
-    alt="Instagram"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Instagram-28A745?style=flat&logo=Instagram&logoColor=white" />
-  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
 <h4 align="center">
@@ -57,6 +14,10 @@
 <p align="center">
   📚 Graduate in <b>B.S. in Computer Science</b> &nbsp;
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbazante/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielbazante/)
+
 
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbazante&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabrielbazante" />
