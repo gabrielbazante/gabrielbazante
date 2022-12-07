@@ -61,8 +61,8 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbazante&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabrielbazante" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbazante&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="gabrielbazante" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api username=gabrielbazante&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="gabrielbazante" /></p>
 </div>
 
 
