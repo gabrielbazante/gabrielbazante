@@ -8,7 +8,7 @@
 - 🤔 I’m interested in studyng Swift
 - 💜 I’m passionate about Design and Front-end
 - 💻 I seek to learn more and more about front-end and back-end
-- 💼 Senior Full Stack Developer at <b>Arbo Imóveis</b>
+- 💼 Senior System Analyst at <b>DGS - Brasil</b>
 - 📚 Graduate in <b>B.S. in Computer Science</b>
 - 🇧🇷 Born and live in Recife, Brazil <br> 
 
